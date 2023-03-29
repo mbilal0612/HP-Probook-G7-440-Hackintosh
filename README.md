@@ -6,7 +6,7 @@ My laptop had Nvidio graphic card
 internal input audio
 HDMI
 
-#what works
+# what works
 Output audio
 touchpad with gestures
 input audio with earphones (when using alcid=23)
